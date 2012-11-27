@@ -1,0 +1,13 @@
+{
+  "name": "codesmith-jitsu",
+  "description": "Nodejitsu hosted codesmith.ws site",
+  "author": "Scott Scoble <sscoble@codesmith.ws>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+    "coffee-script": "*"
+  }
+}
